@@ -1,0 +1,1 @@
+Using the silhouette method, the optimal K was found to be 4. The discovered clusters align well with the expected 4-cluster structure. The algorithm converged successfully, and the scatter plot shows distinct separation.
